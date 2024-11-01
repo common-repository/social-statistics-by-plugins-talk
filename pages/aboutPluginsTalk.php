@@ -1,0 +1,5 @@
+<?php
+	ptssAboutStyle ();
+	ptssShowHeader ();
+	ptssShowAboutPluginsTalk ();
+?>
